@@ -1,4 +1,4 @@
-Mod for use with an ELEC FREAKS LCD 1602 with SPI_IIC LCD and Arduino IDE 1.0.1.
+Mod for use with an [ELEC FREAKS LCD 1602](http://www.elecfreaks.com/wiki/index.php?title=I2C/TWI_LCD1602_Module) with SPI_IIC LCD and Arduino IDE >=1.0.1.
 
     * Author: Ignacio Manzano Arribas
     * Uploaded by: Sergio Moya <smoya89@gmail.com>
